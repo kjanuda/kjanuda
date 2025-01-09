@@ -7,11 +7,7 @@ enum TemperatureScale {
 }
 
 // Custom exception for invalid conversions
-class InvalidConversionException extends Exception {
-    public InvalidConversionException(String message) {
-        super(message);
-    }
-}
+
 
 // Class for temperature conversion
 class TemperatureConverter {
