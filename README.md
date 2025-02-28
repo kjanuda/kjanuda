@@ -6,6 +6,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Web3+Infrastructure;Neural+Smart+Contract+Architecture;Decentralized+AI+Systems+Engineer;Human-Centered+AI+Design+Philosophy;Quantum-Resistant+Blockchain+Intelligence" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=kjanuda&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
+</div>
+
 <!-- 3D Contribution visualization -->
 <div align="center">
   <picture>
@@ -69,6 +73,22 @@ const Januda: AIBlockchainSpecialist = {
 };
 ```
 
+## 👨‍💻 About Me
+
+```python
+class JanudaKodithuwakku:
+    def __init__(self):
+        self.name = "Januda J Kodithuwakku"
+        self.location = "Sri Lanka 🇱🇰"
+        self.role = "AI Architect & Blockchain Engineer"
+        self.learning = ["Neural Smart Contracts", "Zero-Knowledge ML", "Multimodal AI"]
+        self.interests = ["Decentralized AI", "Quantum-Resistant Systems", "Human-AI Collaboration"]
+        self.email = "janudakodi@gmail.com"
+        
+    def say_hi(self):
+        print("Thanks for exploring my profile! Let's build intelligent Web3 infrastructure together.")
+```
+
 ## 🌟 Innovation Roadmap
 
 <div align="center">
@@ -100,76 +120,41 @@ const Januda: AIBlockchainSpecialist = {
 ## 🔮 Advanced Technology Stack
 
 <div align="center">
-  <!-- Interactive tech stack visualization -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=py,ts,rust,solidity,react,nextjs,tailwind,nodejs,docker,kubernetes,aws,gcp,tensorflow,pytorch,github&perline=5" alt="Tech Stack"/></a>
-</div>
-
-<div align="center">
-  <details>
-    <summary><b>🧠 AI Research Framework 🧠</b></summary>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-      <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
-      <img src="https://img.shields.io/badge/JAX-A8DADC?style=for-the-badge&logo=google&logoColor=black" alt="JAX"/>
-      <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" alt="Ray"/>
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-      <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
-      <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
-      <img src="https://img.shields.io/badge/Transformers-FFDD4A?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-      <img src="https://img.shields.io/badge/OpenAI_Gym-0081A5?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Gym"/>
-      <img src="https://img.shields.io/badge/Cohere-FF4B4B?style=for-the-badge&logo=cohere&logoColor=white" alt="Cohere"/>
-      <img src="https://img.shields.io/badge/Anthropic_Claude-7A5BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-      <img src="https://img.shields.io/badge/Llama_Index-FF00FF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama Index"/>
-    </div>
-  </details>
-
-  <details>
-    <summary><b>⛓️ Web3 & Blockchain Architecture ⛓️</b></summary>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-      <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethers.js"/>
-      <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
-      <img src="https://img.shields.io/badge/Foundry-242424?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
-      <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
-      <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon"/>
-      <img src="https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white" alt="Optimism"/>
-      <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" alt="Base"/>
-      <img src="https://img.shields.io/badge/Arbitrum-12AAFF?style=for-the-badge&logo=arbitrum&logoColor=white" alt="Arbitrum"/>
-      <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink"/>
-      <img src="https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&logo=thegraph&logoColor=white" alt="The Graph"/>
-      <img src="https://img.shields.io/badge/ZK--Rollups-000000?style=for-the-badge&logo=ethereum&logoColor=white" alt="ZK-Rollups"/>
-      <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin"/>
-      <img src="https://img.shields.io/badge/Lens_Protocol-00501E?style=for-the-badge&logo=lens&logoColor=white" alt="Lens Protocol"/>
-    </div>
-  </details>
-
-  <details>
-    <summary><b>🌐 Modern Web Development ⚡</b></summary>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js 14"/>
-      <img src="https://img.shields.io/badge/React_Server_Components-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="RSC"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-      <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC"/>
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-      <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="Tanstack Query"/>
-      <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI"/>
-      <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand"/>
-      <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno"/>
-      <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
-      <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
-      <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
-    </div>
-  </details>
+  <h3>Languages & Core</h3>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py,ts,rust,solidity,cpp,go&perline=6" alt="Languages"/></a>
+  
+  <h3>AI & ML</h3>
+  <div>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+    <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/JAX-A8DADC?style=for-the-badge&logo=google&logoColor=black" alt="JAX"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  </div>
+  
+  <h3>Web3 & Blockchain</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+    <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
+    <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon"/>
+    <img src="https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&logo=thegraph&logoColor=white" alt="The Graph"/>
+    <img src="https://img.shields.io/badge/ZK--Rollups-000000?style=for-the-badge&logo=ethereum&logoColor=white" alt="ZK-Rollups"/>
+  </div>
+  
+  <h3>Frontend & Backend</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js 14"/>
+    <img src="https://img.shields.io/badge/React_Server_Components-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="RSC"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+    <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+    <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI"/>
+  </div>
+  
+  <h3>DevOps & Cloud</h3>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,github&perline=6" alt="DevOps"/></a>
 </div>
 
 ## 📊 AI Innovation Metrics
@@ -179,6 +164,10 @@ const Januda: AIBlockchainSpecialist = {
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kjanuda&show_icons=true&count_private=true&theme=radical&rank_icon=github&ring_color=0088fe&include_all_commits=true&show_icons=true&custom_title=AI%20Research%20Impact" height="180" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kjanuda&theme=radical&date_format=j%20M%5B%20Y%5D&border=E4E2E2&background=0D1117&stroke=6A28FD&ring=60A5FA&fire=DD6B20&currStreakLabel=60A5FA" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kjanuda&theme=radical" width="100%" />
 </div>
 
 ## 🔬 Latest Research Projects
@@ -300,6 +289,26 @@ graph TD
   </table>
 </div>
 
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Neural Smart Contracts: The Future of Blockchain Intelligence]()
+- [Decentralized Fine-Tuning: Community-Owned AI Models]()
+- [Zero-Knowledge Machine Learning: Privacy-First AI Development]()
+- [Building Cross-Chain AI Systems: Interoperability Challenges]()
+<!-- BLOG-POST-LIST:END -->
+
+## 🧠 AI Development Tools
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenAI%20Playground-412991?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"/></a>
+</div>
+
 ## 📫 Connect & Collaborate
 
 <div align="center">
@@ -317,6 +326,12 @@ graph TD
   </a>
   <a href="https://calendly.com/janudakodi" target="_blank">
     <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendar"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/janudakodi" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </div>
 
