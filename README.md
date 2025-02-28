@@ -1,94 +1,151 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://www.linkedin.com/in/januda-kodithuwakku/)
-<h1 align="center">Hello 👋, I'm Januda J Kodithuwakku</h1>
-<h3 align="center">Fullstack Developer from Sri Lanka | Passionate about Blockchain & Web Technologies</h3>
+# <div align="center">![coding-banner](https://github.com/kjanuda/kjanuda/assets/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)</div>
 
-<p align="center">
-  <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
-</p>
+<div align="center">
+  <h1>👋 Hello World, I'm Januda J Kodithuwakku</h1>
+  <h3>Fullstack Developer | Blockchain Enthusiast | Web3 Explorer</h3>
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=kjanuda&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/kjanuda)
+  [![GitHub followers](https://img.shields.io/github/followers/kjanuda?style=for-the-badge&logo=github)](https://github.com/kjanuda?tab=followers)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/janandithjanuda?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/janandithjanuda)
+</div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=kjanuda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
-### 🚀 About Me
-- 🌱 I’m currently learning **React, Next.js, Web3, MySQL**
+## 🚀 About Me
+
+```javascript
+const januda = {
+  location: "Sri Lanka",
+  role: "Fullstack Developer",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Java", "C++"],
+  currentlyLearning: ["React", "Next.js", "Web3", "MySQL"],
+  passionateAbout: "Blockchain Technologies",
+  email: "janudakodi@gmail.com",
+  funFact: "I'm building the decentralized future, one block at a time"
+};
+```
+
+- 🔭 I'm currently working on **building dApps that solve real-world problems**
+- 🌱 I'm exploring **React, Next.js, Web3, and MySQL**
+- 👯 I'm looking to collaborate on **open-source blockchain projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, C++, React**
-- 🤝 I’m exploring **Blockchain Technologies** and looking for collaborations!
-- 📫 Reach me at: **janudakodi@gmail.com**
+- 📫 How to reach me: **janudakodi@gmail.com**
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kjanuda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjanuda&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kjanuda&theme=tokyonight" alt="Januda's GitHub Streak" />
+</div>
+
+<div align="center">
+  
+  ![Januda's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kjanuda&theme=tokyo-night)
+  
+</div>
+
+## 🌐 Blockchain Journey
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Web Development] --> B[Blockchain Basics]
+    B --> C[Smart Contracts]
+    C --> D[dApp Development]
+    D --> E[Web3 Integration]
+    E --> F[Future: Decentralized Finance]
+    
+    style A fill:#f9d77e,stroke:#333,stroke-width:2px
+    style B fill:#a3d4eb,stroke:#333,stroke-width:2px
+    style C fill:#a3d4eb,stroke:#333,stroke-width:2px
+    style D fill:#a3d4eb,stroke:#333,stroke-width:2px
+    style E fill:#a3ebbd,stroke:#333,stroke-width:2px
+    style F fill:#f9a17e,stroke:#333,stroke-width:2px
+```
+
+</div>
+
+## 🔗 Connect with me
+
+<div align="center">
+  <a href="https://linkedin.com/in/januda-kodithuwakku" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/janandithjanuda" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/januda_j_kodithuwakku" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:janudakodi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://medium.com/@janudakodi" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.youtube.com/c/janudajanandithkodithuwakku" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</div>
+
+<div align="center">
+  
+  ### 🎯 Fun Fact
+  
+  "I'm building the decentralized future, one block at a time!"
+  
+  ![Visitor Counter](https://profile-counter.glitch.me/kjanuda/count.svg)
+  
+</div>
 
 ---
 
-### 🔗 Connect with me:
-<p align="center">
-  <a href="https://codepen.io/januda_kodithuwakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="januda_kodithuwakku" height="30" width="40" /></a>
-  <a href="https://dev.to/januda_kodithuwakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="januda_kodithuwakku" height="30" width="40" /></a>
-  <a href="https://twitter.com/janandithjanuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janandithjanuda" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/januda-kodithuwakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="januda_kodithuwakku" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/januda_kodithuwakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="januda_kodithuwakku" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/kjanuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kjanuda" height="30" width="40" /></a>
-  <a href="https://kaggle.com/januda_kodithuwakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="januda_kodithuwakku" height="30" width="40" /></a>
-  <a href="https://fb.com/januda_janandith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="januda_janandith" height="30" width="40" /></a>
-  <a href="https://instagram.com/januda_j_kodithuwakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="januda_j_kodithuwakku" height="30" width="40" /></a>
-  <a href="https://dribbble.com/januda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="januda" height="30" width="40" /></a>
-  <a href="https://www.behance.net/januda_kodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="januda_kodi" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@janudakodithuwakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@janudakodithuwakku" height="30" width="40" /></a>
-  <a href="https://medium.com/@janudakodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@janudakodi" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/janudajanandithkodithuwakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="janudajanandithkodithuwakku" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/januda_kodithuwakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="januda_kodithuwakku" height="30" width="40" /></a>
-  <a href="https://rss.com/podcasts/unveiling-the-future-of-artificial-intelligence-one-breakthrough-at-a-time/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/podcasts/unveiling-the-future-of-artificial-intelligence-one-breakthrough-at-a-time/" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kjanuda/kjanuda/output/snake.svg" alt="Snake animation" />
+</div>
 
----
-
-### 💻 Languages and Tools:
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40" /></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /></a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40" /></a>
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kjanuda&show_icons=true&count_private=true&theme=gruvbox" alt="Januda's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kjanuda&theme=gruvbox" alt="Januda's Streak Stats" />
-</p>
-
----
-
-### 🌱 Currently Learning:
-- **React js & Next.js**
-- **Web3 (Blockchain Technologies)**
-
----
-
-### 🎯 Fun Fact:
-I’m deeply passionate about **Blockchain** and hope to build cutting-edge decentralized applications in the future.
-
----
-
-Feel free to reach out if you're interested in collaborating, have questions, or want to connect over technology! 😄
-
----
+<div align="center">
+  <a href="https://www.buymeacoffee.com/janudakodi" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
+</div>
